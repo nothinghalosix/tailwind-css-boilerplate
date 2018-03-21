@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,EAAG,CACD,KAAK,CAAE,GAAG",
+"sources": ["../sass/partials/home.scss"],
+"names": [],
+"file": "styles.min.css"
+}
